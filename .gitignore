@@ -5,4 +5,7 @@ visualization/venv
 .idea
 backend/.idea
 frontend/.idea
-visualization/.idea
+.DS_Store
+backend/.DS_Store
+frontend/.DS_Store
+visualization/.DS_Store
