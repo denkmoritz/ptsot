@@ -9,3 +9,4 @@ frontend/.idea
 backend/.DS_Store
 frontend/.DS_Store
 visualization/.DS_Store
+backend/results.db
