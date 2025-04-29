@@ -1,0 +1,8 @@
+backend/venv
+backend/__pycache__/
+vizualization/__pycache__/
+visualization/venv
+.idea
+backend/.idea
+frontend/.idea
+visualization/.idea
